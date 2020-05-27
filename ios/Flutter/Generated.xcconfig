@@ -1,6 +1,6 @@
 // This is a generated file; do not edit or check into version control.
 FLUTTER_ROOT=/home/ragehelix/Softwares/flutter
-FLUTTER_APPLICATION_PATH=/home/ragehelix/Documents/SY/flutter_projects/xylophone-flutter
+FLUTTER_APPLICATION_PATH=/home/ragehelix/Documents/SY/flutter_projects/xylophone_app
 FLUTTER_TARGET=lib/main.dart
 FLUTTER_BUILD_DIR=build
 SYMROOT=${SOURCE_ROOT}/../build/ios

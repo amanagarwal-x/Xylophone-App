@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/ragehelix/Documents/SY/flutter_projects/xylophone_app/build/audioplayers/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/home/ragehelix/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/home/ragehelix/Documents/SY/flutter_projects/xylophone_app/build/audioplayers/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/home/ragehelix/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/home/ragehelix/Documents/SY/flutter_projects/xylophone_app/build/audioplayers/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/home/ragehelix/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/home/ragehelix/Documents/SY/flutter_projects/xylophone_app/build/audioplayers/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/home/ragehelix/.gradle/caches/transforms-2/files-2.1/e9dab9c67c1ee3668e0bbf86c6d8cbd8/core-1.1.0/res/drawable/notification_icon_background.xml"
+    }
+]

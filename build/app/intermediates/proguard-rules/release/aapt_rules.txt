@@ -1,0 +1,6 @@
+# Referenced at /home/ragehelix/Documents/SY/flutter_projects/xylophone_app/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:25
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/ragehelix/Documents/SY/flutter_projects/xylophone_app/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:30
+-keep class co.appbrewery.xylophone.MainActivity { <init>(); }
+# Referenced at /home/ragehelix/Documents/SY/flutter_projects/xylophone_app/build/app/intermediates/merged_manifests/release/arm64-v8a/AndroidManifest.xml:25
+-keep class io.flutter.app.FlutterApplication { <init>(); }
