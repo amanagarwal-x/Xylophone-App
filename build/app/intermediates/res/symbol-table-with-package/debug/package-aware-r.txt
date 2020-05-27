@@ -1,4 +1,4 @@
-co.appbrewery.xylophone
+co.company.xylophone
 attr alpha
 attr font
 attr fontProviderAuthority
